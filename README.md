@@ -1,3 +1,13 @@
+# Created a movie website - Tmdb99
+In this website user select their favourite movie which goes and store in their favorurites accoring to movie genre 
+I have added sorting feature on based of rating and popularity and pagination
+User can search movie and can delete movie from their favourties
+
+# ---> used react as frontend and Tmdb api for movies
+# ---> Deployed on netlify
+# Demo https://screenrec.com/share/YxtRvjOqml
+# website link https://tmdb99.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
