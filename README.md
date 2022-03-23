@@ -3,10 +3,10 @@ In this website user select their favourite movie which goes and store in their 
 I have added sorting feature on based of rating and popularity and pagination
 User can search movie and can delete movie from their favourties
 
-# ---> used react as frontend and Tmdb api for movies
-# ---> Deployed on netlify
-# Demo https://screenrec.com/share/YxtRvjOqml
-# website link https://tmdb99.netlify.app/
+### ---> used react as frontend and Tmdb api for movies
+### ---> Deployed on netlify
+### Demo https://screenrec.com/share/YxtRvjOqml
+### website link https://tmdb99.netlify.app/
 
 # Getting Started with Create React App
 
